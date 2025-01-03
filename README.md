@@ -111,3 +111,5 @@ Yashwant Kumaar - tsyashwantkumaar07112002@gmail.com
 
 Deployed Project Link: https://clever-gecko-9eabbb.netlify.app/
 
+You can check out my GitHub for some exciting projects : https://github.com/yashwantkumaar
+
